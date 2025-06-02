@@ -21,3 +21,5 @@ Technology Used
     Json 
   
     Postman
+    
+The application is built with in-memory data structures such as ArrayList and HashMap, without using any external libraries, databases, or frameworks like Spring. All endpoints were thoroughly tested using Postman, and the test cases include both valid and invalid inputs to ensure reliability and error handling. 
